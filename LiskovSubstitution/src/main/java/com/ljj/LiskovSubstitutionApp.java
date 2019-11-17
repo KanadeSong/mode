@@ -7,7 +7,7 @@ import com.ljj.animal.bird.Swallow;
 /**
  * 里氏替换原则
  */
-public class PrincipleApp {
+public class LiskovSubstitutionApp {
     public static void main(String[] args) {
         Bird bird1=new Swallow();
         Bird bird2=new BrownKiwi();

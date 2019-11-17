@@ -14,8 +14,8 @@
 
 
     <modules>
-
         <module>Adapter</module>
-        <module>Principle</module>
+        <module>LiskovSubstitution</module>
+        <module>DependenceInversion</module>
     </modules>
 </project>
