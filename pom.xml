@@ -21,5 +21,6 @@
         <module>InterfaceSegregation</module>
         <module>LeastKnowledge</module>
         <module>CompositeReuse</module>
+        <module>Singleton</module>
     </modules>
 </project>
