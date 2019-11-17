@@ -22,5 +22,6 @@
         <module>LeastKnowledge</module>
         <module>CompositeReuse</module>
         <module>Singleton</module>
+        <module>Prototype</module>
     </modules>
 </project>
