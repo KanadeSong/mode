@@ -16,5 +16,6 @@
     <modules>
 
         <module>Adapter</module>
+        <module>Principle</module>
     </modules>
 </project>
