@@ -19,5 +19,6 @@
         <module>DependenceInversion</module>
         <module>SingleResponsibility</module>
         <module>InterfaceSegregation</module>
+        <module>LeastKnowledge</module>
     </modules>
 </project>
