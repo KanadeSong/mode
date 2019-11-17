@@ -23,5 +23,6 @@
         <module>CompositeReuse</module>
         <module>Singleton</module>
         <module>Prototype</module>
+        <module>Builder</module>
     </modules>
 </project>
