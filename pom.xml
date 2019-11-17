@@ -17,5 +17,7 @@
         <module>Adapter</module>
         <module>LiskovSubstitution</module>
         <module>DependenceInversion</module>
+        <module>SingleResponsibility</module>
+        <module>InterfaceSegregation</module>
     </modules>
 </project>
