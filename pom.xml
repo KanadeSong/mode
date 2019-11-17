@@ -20,5 +20,6 @@
         <module>SingleResponsibility</module>
         <module>InterfaceSegregation</module>
         <module>LeastKnowledge</module>
+        <module>CompositeReuse</module>
     </modules>
 </project>
