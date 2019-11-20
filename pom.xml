@@ -31,5 +31,6 @@
         <module>Flyweight</module>
         <module>Component</module>
         <module>Template</module>
+        <module>Strategy</module>
     </modules>
 </project>
