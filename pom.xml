@@ -27,5 +27,6 @@
         <module>Proxy</module>
         <module>Bridge</module>
         <module>Decorator</module>
+        <module>Facade</module>
     </modules>
 </project>
