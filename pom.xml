@@ -32,5 +32,6 @@
         <module>Component</module>
         <module>Template</module>
         <module>Strategy</module>
+        <module>ChainofResponsibility</module>
     </modules>
 </project>
