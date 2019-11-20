@@ -4,7 +4,7 @@ import com.ljj.abstr.Abstraction;
 import com.ljj.api.Implementor;
 
 /**
- * @Description: TODO
+ * @Description: 扩展抽象化
  * @Author LeeJack
  * @Date 2019/11/20
  * @Version V1.0
