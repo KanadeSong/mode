@@ -36,5 +36,6 @@
         <module>State</module>
         <module>Observer</module>
         <module>Mediator</module>
+        <module>Iterator</module>
     </modules>
 </project>
