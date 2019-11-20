@@ -24,5 +24,6 @@
         <module>Singleton</module>
         <module>Prototype</module>
         <module>Builder</module>
+        <module>Proxy</module>
     </modules>
 </project>
