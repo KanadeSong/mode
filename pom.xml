@@ -34,5 +34,6 @@
         <module>Strategy</module>
         <module>ChainofResponsibility</module>
         <module>State</module>
+        <module>Observer</module>
     </modules>
 </project>
