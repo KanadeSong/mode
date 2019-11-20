@@ -35,5 +35,6 @@
         <module>ChainofResponsibility</module>
         <module>State</module>
         <module>Observer</module>
+        <module>Mediator</module>
     </modules>
 </project>
