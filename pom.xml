@@ -33,5 +33,6 @@
         <module>Template</module>
         <module>Strategy</module>
         <module>ChainofResponsibility</module>
+        <module>State</module>
     </modules>
 </project>
