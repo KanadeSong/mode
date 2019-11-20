@@ -28,5 +28,6 @@
         <module>Bridge</module>
         <module>Decorator</module>
         <module>Facade</module>
+        <module>Flyweight</module>
     </modules>
 </project>
