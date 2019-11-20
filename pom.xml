@@ -30,5 +30,6 @@
         <module>Facade</module>
         <module>Flyweight</module>
         <module>Component</module>
+        <module>Template</module>
     </modules>
 </project>
