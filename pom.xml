@@ -39,5 +39,6 @@
         <module>Iterator</module>
         <module>Visitor</module>
         <module>Memento</module>
+        <module>Interpreter</module>
     </modules>
 </project>
