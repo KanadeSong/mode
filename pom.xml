@@ -37,5 +37,6 @@
         <module>Observer</module>
         <module>Mediator</module>
         <module>Iterator</module>
+        <module>Visitor</module>
     </modules>
 </project>
